@@ -1,10 +1,10 @@
-
+'use client';
 import React from 'react'
 
 function ProductCard() {
   return (
     <div>
-        <button >Add to cart</button>
+        <button onClick={()=> console.log('click')}>Add to cart</button>
     </div>
   )
 }
