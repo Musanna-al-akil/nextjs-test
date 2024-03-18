@@ -2,7 +2,7 @@ import React from 'react'
 
 function NewUserPage() {
   return (
-    <div>NewUserPage</div>
+    <div>NewUserP age</div>
   )
 }
 
